@@ -1,5 +1,4 @@
 //DOM fully loaded :) >START
-
 window.addEventListener('DOMContentLoaded', event => {});
 //set even listener functions
 listenToHamburger = function() {
